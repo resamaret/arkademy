@@ -1,0 +1,55 @@
+{
+  
+  "name" : "Resa Marettanto",
+  
+  "age" : 25,
+  
+  "address" : "Jalan KIS Mangunsarkoro RT 009 RW 002 Kademangan Bondowoso",
+  
+  "hobbies" : [
+      "Bulutangkis",
+      "Operating PC Komputer dan Laptop termasuk Software dan Hardware",
+      "Kuliner"
+    ], 
+    
+  "is_merried" : false,
+  
+  "list_school" : [
+    {
+      "name" : "TK TUNAS KENCANA",
+      "year_in" : 1998,
+      "year_out" : 2000
+    },
+    {
+      "name" : "SDN DABASAH 5 BONDOWOSO",
+      "year_in" : 2000,
+      "year_out" : 2006
+    },
+    {
+      "name" : "SMP NEGERI 1 BONDOWOSO",
+      "year_in" : 2006,
+      "year_out" : 2009
+    },
+    {
+      "name" : "SMA NEGERI 1 TENGGARANG",
+      "year_in" : 2009,
+      "year_out" : 2012,
+      "major" : "IPA"
+    },
+    {
+      "name" : "UNIVERSITAS MUHAMMADIYAH JEMBER",
+      "year_in" : 2014,
+      "year_out" : 2019,
+      "major" : "Teknik Informatika"
+    }
+  ],
+  
+  "skills" : [
+      {
+        "skill_name" : "php dasar",
+        "level" : "Beginner"
+      }
+    ],
+  
+  "interest_in_coding" : true
+}
