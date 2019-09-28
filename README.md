@@ -1,1 +1,1 @@
-# JSON dalam rest API memudahkan untuk mengambil data dan juga meringankan load pada saat pengambilan data. data JSON pada yang diambil itu tidak akan merubah data master yang ada di server. melainkan perantara atau copy 
+# JSON dalam rest API memudahkan untuk mengambil data dan juga meringankan load pada saat pengambilan data. data JSON pada yang diambil itu tidak akan merubah data master yang ada di server. melainkan perantara atau copy dari data yang ada di server.
